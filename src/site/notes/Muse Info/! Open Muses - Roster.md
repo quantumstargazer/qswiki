@@ -29,7 +29,7 @@
 
 # Dragon Age
 ## Ashina de Riva née Tabris
-*City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin — Fifth Talon's Second[^1]*
+*City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin
 - [[Muse Info/! Open Muses/Dragon Age/Ashina de Riva née Tabris/! Dossiers/0 Summary/Ashina Tabris - Dossier Summary\|Dossiers]]
 - Verses
 - Connections
@@ -57,7 +57,7 @@
 - Headcanons
 - Wishlists
 ## Zevran Arainai
-*City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows[^2]*
+*City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^1]
 - Dossiers
 - Verses
 - Connections
@@ -104,7 +104,5 @@
 ---
 #rosters 
 # Footnotes
-[^1]: Verse & timeline dependant — open to plotting
-
-[^2]: Verse & timeline dependant.
+[^1]: Verse & timeline dependant.
 
