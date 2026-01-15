@@ -12,15 +12,18 @@
 
 - [(Dis)Interest Tracker](https://tally.so/r/D4p7pb)
 - RP Preferences Tracker
+- [Best Friends Call](https://tally.so/r/eqraq0) [^1]
 ## Interactions Calls
-- [Best Friends Call](https://tally.so/r/eqraq0)
+> [!info]- Request Interaction At Any Time
+> These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
+
 - [Starter Call](https://tally.so/r/eqrr8J)
 - [Inbox Call](https://tally.so/r/NpXXKl)
 ---
 # Rules & Guidelines
 - [[Rules & Guidelines/! QS Rules\|The Actual Rules]]
 - [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]]
-- [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^1]
+- [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^2]
 # Muse Rosters
 - [[Muse Info/! Open Muses - Roster\|Open Muses]]
 - [[Muse Info/Friends Only - Roster\|Friends Only]]
@@ -34,4 +37,6 @@
 ---
 #directory 
 # Footnotes
-[^1]: Covers everything from the list of canon-typical content warnings for anyone unfamiliar with the fandoms I write, to why I might not follow someone back if they follow me first. Just those things that don't quite fit in the Rules & Guidelines, but are useful to know anyway without having to dig through posts for answered memes and hope someone's actually asked it.
+[^1]: Essentially a permanent starter call with benefits — this is the only permanent starter call you will find on my blog. It's mostly a major reliever of social anxiety for me, for having explicit permission to interact.
+
+[^2]: Covers everything from the list of canon-typical content warnings for anyone unfamiliar with the fandoms I write, to why I might not follow someone back if they follow me first. Just those things that don't quite fit in the Rules & Guidelines, but are useful to know anyway without having to dig through posts for answered memes and hope someone's actually asked it.
