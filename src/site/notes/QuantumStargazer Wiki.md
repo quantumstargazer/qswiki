@@ -4,10 +4,15 @@
 
 > [!WARNING] Testing In Progress
 > This is only a test for now.
+
+# QuantumStargazer
+[QuantumStargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
+
+---
 # Rules & Guidelines
-- [[Rules & Guidelines/Rules/! QS Rules\|The Actual Rules]]
-- [[Rules & Guidelines/Guidelines/! QS Guidelines\|RP Guidelines]]
-- [[Rules & Guidelines/RP FAQ/! QS FAQ\|Frequently Asked Questions]] [^1]
+- [[Rules & Guidelines/! QS Rules\|The Actual Rules]]
+- [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]]
+- [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^1]
 
 # Muse Rosters
 - [[Muse Info/! Open Muses/Roster - Open Muses\|Open Muses]]
