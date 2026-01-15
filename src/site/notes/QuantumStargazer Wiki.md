@@ -15,10 +15,10 @@
 - [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^1]
 
 # Muse Rosters
-- [[Muse Info/! Open Muses/Roster - Open Muses\|Open Muses]]
-- [[Muse Info/0 Friends Only/Roster - Friends Only\|Friends Only]]
-- [[Muse Info/By Request Only/Roster - By Request Only\|By Request Only]]
-- [[Muse Info/Irregulars/Roster - Irregulars\|Irregulars]]
+- [[Muse Info/Roster - Open Muses\|Open Muses]]
+- [[Muse Info/Roster - Friends Only\|Friends Only]]
+- [[Muse Info/Roster - By Request Only\|By Request Only]]
+- [[Muse Info/Roster - Irregulars\|Irregulars]]
 
 
 ---
