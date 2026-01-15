@@ -54,9 +54,10 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 # Additional Guidelines May Apply
 Because everyone is different in how they want to interact, not all of the guidelines are applicable to every person who follows me. It's this reason that these are broken down into the way that they are.
 
-#rules #guidelines 
+
 
 ---
+#rules #guidelines 
 # Footnotes
 
 [^1]: I have severe memory issues due to various comorbid medical conditions, including a traumatic brain injury, so I sincerely *cannot* be relied on to remember if you merely unfollowed &/or soft blocked me. It is for the best that I simply *remain blocked*, and that if you move to a new blog in the future, *especially* if you change your username, that you continue to block me from the new blog(s) as well.
