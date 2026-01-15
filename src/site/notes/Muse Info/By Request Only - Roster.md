@@ -3,7 +3,7 @@
 ---
 
 > [!TIP] Available Only If You Ask!
-> I won't initiate anything with these muses until after you've specifically asked for them.
+> I won't initiate anything with these muses until *after* you've specifically asked for them.
 # Baldur's Gate
 ## Astarion Ancunín
 *~~Moon Elf~~ Vampire Spawn — Rogue*
