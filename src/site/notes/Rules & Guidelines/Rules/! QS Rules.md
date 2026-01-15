@@ -47,9 +47,9 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > - Jessica Chastain
 > - Models
 
-> [!warning]+ Restricted Faceclaims [^4]
-> - Musicians
-> - Youtubers
+> [!warning]+ Restricted Faceclaims
+> - Musicians [^4]
+> - Youtubers [^4]
 
 # Additional Guidelines May Apply
 Because everyone is different in how they want to interact, not all of the guidelines are applicable to every person who follows me. It's this reason that these are broken down into the way that they are.
