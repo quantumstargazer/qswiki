@@ -7,6 +7,9 @@
 # Baldur's Gate
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
+> [!hint]- Archfey Warlock of the Prince of Frost
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -14,13 +17,19 @@
 - Wishlists
 ## Faeynore Moonstar
 *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
+> [!hint]- Baldur's Gate PI for Over 200 Years
+> TBA
+
 - Dossiers
 - Verses
 - Connections
 - Headcanons
 - Wishlists
-## Dirge (*The Dark Urge*)
+## Dirge
 *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
+> [!caution]- The Dark Urge
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -40,6 +49,9 @@
 - Wishlists
 ## Zaehire de Riva
 *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist — Viago's Protégé*
+> [!hint]- Casteless Bastard of Prince Trian Aeducan
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -47,6 +59,9 @@
 - Wishlists
 ## Leonardo de Riva
 *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
+> [!hint]- Viago Jr. (No Relation... Probably)
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -54,6 +69,9 @@
 - Wishlists
 ## Ward Ingellvar
 *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
+> [!hint]- Wisp to Spirit to Elf
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -61,6 +79,9 @@
 - Wishlists
 ## Zevran Arainai
 *City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^1]
+> [!hint]- Eighth Talon of House Arainai
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -68,6 +89,9 @@
 - Wishlists
 ## Haleir Lavellan
 *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
+> [!hint]- Inquisition Abandoned
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -75,6 +99,9 @@
 - Wishlists
 ## Bertrand Ingellvar
 *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
+> [!hint]- Grand Necropolis Guard
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -84,6 +111,9 @@
 # Mass Effect
 ## Isabela Shepard
 *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
+> [!hint]- First Human Spectre
+> TBA
+
 - Dossiers
 - Verses
 - Connections
@@ -91,6 +121,9 @@
 - Wishlists
 ## Nihlus Kryik
 *Turian — Renegon — Council Spectre — Havoc Soldier*
+> [!hint]- Survival Against The Odds
+> TBA
+
 - Dossiers
 - Verses
 - Connections
