@@ -29,7 +29,7 @@
 
 # Dragon Age
 ## Ashina de Riva née Tabris
-*City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin
+*City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin*
 - [[Muse Info/! Open Muses/Dragon Age/Ashina de Riva née Tabris/! Dossiers/0 Summary/Ashina Tabris - Dossier Summary\|Dossiers]]
 - Verses
 - Connections
