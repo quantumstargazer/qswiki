@@ -6,7 +6,11 @@
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
 # QuantumStargazer
 [QuantumStargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
-
+## RP Info
+- **Multi-Verse** — All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Multi-Ship** — Ships are not Highlanders - there can be more than one. And there will be. *There will be.*
+- **Loose Plotting Only** — Not a heavy or strict planner; if you *are*, then I'm probably not who you want to try to plot with.
+- **In Character Posts Immediately** — IC posts are never queued - only prompts, memes, aesthetics, etc. are queued.
 ---
 # Interest Forms
 > [!info]- Interest Assumed For All Open Muses
