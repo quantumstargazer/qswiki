@@ -53,7 +53,7 @@
 - Headcanons
 - Wishlists
 ### Courier
-*QUICKINFO*
+*Human (probably) — Skyrim Courier*
 - Dossiers
 - Verses
 - Connections
@@ -61,21 +61,21 @@
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
-*QUICKINFO*
+*Human — Wizard*
 - Dossiers
 - Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Elliot
-*QUICKINFO*
+*Human — Author*
 - Dossiers
 - Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Gunter
-*QUICKINFO*
+*Human — Librarian Historian*
 - Dossiers
 - Verses
 - Connections
@@ -83,7 +83,7 @@
 - Wishlists
 ## DC *Iron Man* AU
 ### Tony Stark
-*QUICKINFO*
+*Human — Iron Man*
 - Dossiers
 - Verses
 - Connections
@@ -91,7 +91,7 @@
 - Wishlists
 ## Doctor Who Expanded Universe
 ### Irving Braxiatel
-*QUICKINFO*
+*Time Lord — Art Collector*
 - Dossiers
 - Verses
 - Connections
@@ -112,7 +112,7 @@
 - Headcanons
 - Wishlists
 ### Narvin
-*QUICKINFO*
+*Time Lord — Celestial Intervention Agency Director*
 - Dossiers
 - Verses
 - Connections
