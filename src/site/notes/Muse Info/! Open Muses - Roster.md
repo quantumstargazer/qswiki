@@ -8,7 +8,7 @@
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
 > [!hint]- Archfey Warlock of the Prince of Frost
-> TBA
+> Tavares is a warlock in service of the Prince of Frost.
 
 - Dossiers
 - Verses
