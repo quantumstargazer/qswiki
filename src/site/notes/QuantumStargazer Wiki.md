@@ -21,14 +21,11 @@
 - [[Rules & Guidelines/! QS Rules\|The Actual Rules]]
 - [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]]
 - [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^1]
-
 # Muse Rosters
 - [[Muse Info/! Open Muses - Roster\|Open Muses]]
 - [[Muse Info/Friends Only - Roster\|Friends Only]]
 - [[Muse Info/By Request Only - Roster\|By Request Only]]
 - [[Muse Info/Irregulars - Roster\|Irregulars]]
-
-
 ---
 # About the Mun
 - *name/alias:* Ziggy
