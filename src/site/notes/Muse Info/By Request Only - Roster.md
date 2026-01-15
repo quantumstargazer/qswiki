@@ -3,24 +3,24 @@
 ---
 
 > [!TIP] Available Only If You Ask!
-> I won't initiate anything with these muses until you've specifically asked for them.
+> I won't initiate anything with these muses until after you've specifically asked for them.
 # Baldur's Gate
 ## Astarion Ancunín
-*QUICKINFO*
+*~~Moon Elf~~ Vampire Spawn — Rogue*
 - Dossiers
 - Verses
 - Connections
 - Headcanons
 - Wishlists
 ## Jaheira
-*QUICKINFO*
+*Half-Elf — Druid*
 - Dossiers
 - Verses
 - Connections
 - Headcanons
 - Wishlists
 ## Minthara Baenre
-*QUICKINFO*
+*Drow — Paladin*
 - Dossiers
 - Verses
 - Connections
