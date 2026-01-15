@@ -31,7 +31,7 @@
 - [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]] — *may not apply to everyone*
 - [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^2]
 # Muse Rosters
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses*
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses — available to everyone*
 - [[Muse Info/Friends Only - Roster\|Friends Only]] —*by invitation only*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] — *available only on request*
 - [[Muse Info/Irregulars - Roster\|Irregulars]] — *available only for Mains & Best Friends Call Members*
