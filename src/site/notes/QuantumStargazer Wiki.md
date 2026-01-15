@@ -21,14 +21,14 @@
 - [Inbox Call](https://tally.so/r/NpXXKl)
 ---
 # Rules & Guidelines
-- [[Rules & Guidelines/! QS Rules\|The Actual Rules]]
-- [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]]
+- [[Rules & Guidelines/! QS Rules\|The Actual Rules]] — *must be read before following*
+- [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]] — *may not apply to everyone*
 - [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^2]
 # Muse Rosters
-- [[Muse Info/! Open Muses - Roster\|Open Muses]]
-- [[Muse Info/Friends Only - Roster\|Friends Only]]
-- [[Muse Info/By Request Only - Roster\|By Request Only]]
-- [[Muse Info/Irregulars - Roster\|Irregulars]]
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses*
+- [[Muse Info/Friends Only - Roster\|Friends Only]] —*by invitation only*
+- [[Muse Info/By Request Only - Roster\|By Request Only]] — *available only on request*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] — *available only for Mains & Best Friends Call Members*
 ---
 # About the Mun
 - *name/alias:* Ziggy
