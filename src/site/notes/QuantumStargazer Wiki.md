@@ -21,6 +21,11 @@
 
 
 ---
-
+# About the Mun
+- *name/alias:* Ziggy
+- *pronouns:* they/them
+- *age:* 40+
+---
+#directory 
 # Footnotes
 [^1]: Covers everything from the list of canon-typical content warnings for anyone unfamiliar with the fandoms I write, to why I might not follow someone back if they follow me first. Just those things that don't quite fit in the Rules & Guidelines, but are useful to know anyway without having to dig through posts for answered memes and hope someone's actually asked it.
