@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/quantum-stargazer-wiki/","tags":["gardenEntry"]}
 ---
 
-# QuantumStargazer
 > [!WARNING] Testing In Progress
-> This is only a test for now.
-
+> Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
+# QuantumStargazer
 [QuantumStargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
 
 ---
