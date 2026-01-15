@@ -138,7 +138,7 @@
 
 
 ---
-#rosters 
+#directory #rosters 
 # Footnotes
 [^1]: Verse & timeline dependant.
 
