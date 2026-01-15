@@ -6,6 +6,8 @@
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
 # QuantumStargazer
 [QuantumStargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
+
+---
 # Interest Forms
 > [!info]- Interest Assumed For All Open Muses
 > Unless you fill out the (Dis)Interest Tracker to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and all of my Open Muses in any of their canon-based verses and/or their fandom matched verses & AUs.
