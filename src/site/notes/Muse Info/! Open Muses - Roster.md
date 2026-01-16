@@ -60,7 +60,7 @@
 ## Leonardo de Riva
 *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
 > [!hint]- Viago Jr. (No Relation... Probably)
-> 
+> TBA
 
 - Dossiers
 - Verses
