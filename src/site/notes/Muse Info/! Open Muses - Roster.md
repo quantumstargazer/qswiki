@@ -8,7 +8,7 @@
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
 > [!hint]- Archfey Warlock of the Prince of Frost
-> Tavares is a warlock in service of the Prince of Frost.
+> Tavares is a warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
 - Dossiers
 - Verses
@@ -18,7 +18,7 @@
 ## Faeynore Moonstar
 *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
 > [!hint]- Baldur's Gate PI for Over 200 Years
-> TBA
+> Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 
 - Dossiers
 - Verses
