@@ -39,7 +39,7 @@
 *QUICKINFO*
 - Dossiers
 - Verses
-- Connections
+- C!musetions
 - Headcanons
 - Wishlists
 ## Viago de Riva
