@@ -147,7 +147,12 @@ By 9:30 Dragon, the *hahren* has finally convinced Cyrion that she's been allowe
 # Quick Guide To Interacting
 ## Things *You* Should Know
 - **Ashina Tabris Is Dead** - Ashina completely stops going by her *actual* name of "***Ashina Tabris***" when she is no longer living within the Denerim Alienage — whether this is by being conscripted by the Grey Wardens, taken by the Antivan Crows, or whatever other fate she faces. Very few people who meet her after this ever learn her *true* family name, and many may never even learn her given name, if she introduces herself as "***Tathas Arainai***" instead.
-- **Adaia Was An Antivan Crow** - 
+- **Adaia Was An Antivan Crow** - Adaia was a Crow of House Arainai, who ran away from the Crows in 9:06 Dragon. She would eventually find herself in Denerim, where she married Cyrion and gave birth to Ashina on the 30th of Harvestmere. 
+> [!info]- Questions of Paternity
+> There was plenty of questions around the Alienage as to whether Cyrion was truly Ashina's father, given the timing, and how little she favors him, while being *very clearly* Antivan. 
+>> [!hint]-
+>> While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a child born of a Crow *becomes* a Crow, and so Adaia flees to Ferelden in hopes of giving her child a chance and a *choice* of their own future. She was vocally against the Alienage tradition of only being recognized as an adult by marrying, fought to keep the *hahren* from trying to force Ashina to marry until she *wanted to*, and preferably for love.
+
 ## Things Your Muse *Could* Know
 - **Tathas Arainai, *Hero of Ferelden*** - Most people believe that the Hero of Ferelden's name is ***Tathas Arainai***. As time progresses, fewer remember she is an elf, said to be from Denerim, despite her Antivan name and appearance. Given the mixed feelings many people have regarding the hero's actions during the Fifth Blight, and a few months later in Amaranthine, she had became rather more notorious, at least among nobles, before she was said to have been killed by Antivan Crows in 9:33 Dragon.
 - **Wanted By Weisshaupt** *(Wardens & Crows, mostly)* - "*Warden Tathas*" is wanted by Weisshaupt for "questioning" regarding her survival after killing the archdemon, successfully ending the Fifth Blight, and then her interactions with the Architect approximately six months later, who she permits to live so long as he leaves. The First Warden never *officially* rescinded the orders to bring her in, *alive*, after word of the Crows finishing their contracts against her began to spread.
