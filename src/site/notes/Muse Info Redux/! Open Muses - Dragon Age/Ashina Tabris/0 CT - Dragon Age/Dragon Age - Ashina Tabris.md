@@ -147,10 +147,12 @@ By 9:30 Dragon, the *hahren* has finally convinced Cyrion that she's been allowe
 # Quick Guide To Interacting
 ## Things *You* Should Know
 - **Ashina Tabris Is Dead** - Ashina completely stops going by her *actual* name of "***Ashina Tabris***" when she is no longer living within the Denerim Alienage — whether this is by being conscripted by the Grey Wardens, taken by the Antivan Crows, or whatever other fate she faces. Very few people who meet her after this ever learn her *true* family name, and many may never even learn her given name, if she introduces herself as "***Tathas Arainai***" instead.
+- **Adaia Was An Antivan Crow** - 
 ## Things Your Muse *Could* Know
-- 
+- **Tathas Arainai, *Hero of Ferelden*** - Most people believe that the Hero of Ferelden's name is ***Tathas Arainai***. As time progresses, fewer remember she is an elf, said to be from Denerim, despite her Antivan name and appearance. Given the mixed feelings many people have regarding the hero's actions during the Fifth Blight, and a few months later in Amaranthine, she had became rather more notorious, at least among nobles, before she was said to have been killed by Antivan Crows in 9:33 Dragon.
+- **Wanted By Weisshaupt** *(Wardens & Crows, mostly)* - "*Warden Tathas*" is wanted by Weisshaupt for "questioning" regarding her survival after killing the archdemon, successfully ending the Fifth Blight, and then her interactions with the Architect approximately six months later, who she permits to live so long as he leaves. The First Warden never *officially* rescinded the orders to bring her in, *alive*, after word of the Crows finishing their contracts against her began to spread.
 ## Things Your Muse Should *Not* Know
-- 
+- **Secrets Untold** - Unless they traveled with her during the Fifth Blight, or they knew her from Amaranthine, they are unlikely to know that Ashina even *is* the Hero of Ferelden, as she leaves that life — and the name "*Tathas Arainai*" — behind when she join House de Riva in 9:33 Dragon. From that point forward, she is *only* known as ***Ashina de Riva***.
 
 
 ---
