@@ -28,9 +28,9 @@
 - [Inbox Call](https://tally.so/r/NpXXKl)
 ---
 # Rules & Guidelines
-- [[Rules & Guidelines/! QS Rules\|The Actual Rules]] — *must be read before following*
-- [[Rules & Guidelines/! QS Guidelines\|RP Guidelines]] — *may not apply to everyone*
-- [[Rules & Guidelines/! QS FAQ\|Frequently Asked Questions]] [^2]
+- [[Rules & Guidelines/Actual Rules\|The Actual Rules]] — *must be read before following*
+- [[Rules & Guidelines/Guidelines\|RP Guidelines]] — *may not apply to everyone*
+- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] [^2]
 # Muse Rosters
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses — available to everyone*
 - [[Muse Info/Friends Only - Roster\|Friends Only]] —*by invitation only*
