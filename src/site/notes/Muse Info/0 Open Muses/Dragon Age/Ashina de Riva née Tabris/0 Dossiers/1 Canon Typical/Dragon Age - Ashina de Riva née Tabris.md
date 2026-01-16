@@ -6,6 +6,7 @@
 > [!summary]- Defaults to Veilguard Timeline
 > TBA 
 
+![Ashina_de_Riva_Profile_fixed.png|700x700](/img/user/Ashina_de_Riva_Profile_fixed.png)
 # Applicable Verses & AUs
 *This dossier applies to the following verse(s) and/or AUs:*
 - Dragon Age
