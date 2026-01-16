@@ -132,6 +132,7 @@ Ashina Tabris was born on the 30th of Harvestmere, 9:06 Dragon, to Cyrion Tabris
 At the age of 17, Ashina witnessed the death of her mother at the hands of a group of humans while they were returning to the Alienage from the market. She had hid in the shadows, just as her mother had taught her, while Adaia was murdered, terrified of what they might do to *her*, should they find her.
 ## Adulthood 
 For years since Adaia's death, Ashina has been allowed the time to grieve her mother's loss without the added pressure from her father to marry so she might finally be recognized as an adult by Alienage standards. 
+
 By 9:30 Dragon, the *hahren* has finally convinced Cyrion that she's been allowed to delay long enough, and a marriage is arranged for her to Nelaros of Highever, a skilled blacksmith that Cyrion hopes will be a good match for his stubborn daughter.
 ## Future Outlook 
 
