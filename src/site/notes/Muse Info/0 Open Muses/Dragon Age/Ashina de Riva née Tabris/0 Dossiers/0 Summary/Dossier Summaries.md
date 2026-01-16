@@ -166,8 +166,11 @@
 >> - Headcanons 
 >> - Wishlist 
 
-
-[[Muse Info/! Open Muses - Roster\|! Open Muses - Roster]]
+# Rosters
+- [[Muse Info/! Open Muses - Roster\|Open Muses]]
+- [[Muse Info/By Request Only - Roster\|By Request Only]]
+- [[Muse Info/Friends Only - Roster\|Friends Only]]
+- [[Muse Info/Irregulars - Roster\|Irregulars]]
 
 ---
 #dossiers 
