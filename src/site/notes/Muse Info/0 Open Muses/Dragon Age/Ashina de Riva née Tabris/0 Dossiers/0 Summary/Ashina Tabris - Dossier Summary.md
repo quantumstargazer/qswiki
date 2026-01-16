@@ -15,6 +15,7 @@
 # Canon Typical
 > [!summary]+ Dragon Age
 > **Ashina de Riva** is a Master Assassin of House de Riva of the Antivan Crows, likely serving as the Fifth Talon's Second, and is the Warden-Commander of Antiva. She specialises in contacts for entire noble households, methodically wiping out an entire family line and their house in a single evening.
+> 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 >> [!info]- Verse Navigation 
 >> - [[Muse Info/0 Open Muses/Dragon Age/Ashina de Riva née Tabris/0 Dossiers/1 Canon Typical/Dragon Age - Ashina de Riva née Tabris\|Dossier]]
