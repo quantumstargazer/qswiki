@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/"}
 ---
 
+# By Request Only Roster
 > [!TIP] Available Only If You Ask!
 > I won't initiate anything with these muses until *after* you've specifically asked for them.
 # Baldur's Gate

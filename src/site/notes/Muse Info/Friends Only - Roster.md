@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muse-info/friends-only-roster/"}
 ---
 
+# Friends Only Roster 
 > [!WARNING] Not Open For Requests
 > These muses are available for highly selective individuals only, and are not requestable by anyone but them.
 # Baldur's Gate

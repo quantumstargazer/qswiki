@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muse-info/irregulars-roster/"}
 ---
 
+# Irregulars Roster
 > [!WARNING] Mains & Best Friends Call Members Only
 # Baldur's Gate
 ## Gale Dekarios

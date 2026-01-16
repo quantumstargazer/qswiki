@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muse-info/open-muses-roster/"}
 ---
 
+# Open Muses Roster
 > [!FAQ]- What Are Open Muses?
 > Open Muses are my primary muses, and the muses that, unless you tell me you're *not* interested in them by filling out the (Dis)Interest Tracker form, then they are who I am more likely to throw your way at random, from any of their canon-based verses and/or fandom matched AUs.
 # Baldur's Gate

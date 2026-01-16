@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/"}
 ---
 
+# The Actual Rules
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 

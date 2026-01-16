@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/quantum-stargazer-wiki/","tags":["gardenEntry"]}
 ---
 
+# QuantumStargazer Wiki
 > [!WARNING] Testing In Progress
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
 # QuantumStargazer
