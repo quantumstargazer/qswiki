@@ -18,26 +18,26 @@
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 >> [!info]- Verse Navigation 
 >> - [[Muse Info Redux/! Open Muses - Dragon Age/Ashina Tabris/0 CT - Dragon Age/Dragon Age - Ashina Tabris\|Dossier]]
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Canon Divergent AUs
 > [!summary]+ VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 > [!summary]+ VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Fandom Specific AUs
 ## Baldur's Gate AUs
@@ -45,58 +45,58 @@
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ## Dragon Age AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ## Mass Effect AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ### Elder Scrolls AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ### Stardew Valley AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Trapped In Another World AUs
 ## Baldur's Gate 
@@ -104,59 +104,59 @@
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ## Dragon Age AWs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ## Mass Effect AWs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ### Elder Scrolls AWs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 ### Stardew Valley AWs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Other Verses & AUs
 > [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Private Verses & AUs
 ## Partner - PartnerMuse
@@ -164,9 +164,9 @@
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
+>> - Headcanons
 >> - Verse
->> - Headcanons 
->> - Wishlist 
+>> -  Wishlist 
 
 # Rosters
 - [[Muse Info/! Open Muses - Roster\|Open Muses]]
