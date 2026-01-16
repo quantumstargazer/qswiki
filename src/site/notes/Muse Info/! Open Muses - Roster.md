@@ -3,7 +3,7 @@
 ---
 
 > [!FAQ]- What Are Open Muses?
-> Open Muses are the muses that, unless you tell me you're *not* interested in them by filling out the (Dis)Interest Tracker form, then they are who I am more likely to throw your way at random, from any of their canon-based verses and/or fandom matched AUs.
+> Open Muses are my primary muses, and the muses that, unless you tell me you're *not* interested in them by filling out the (Dis)Interest Tracker form, then they are who I am more likely to throw your way at random, from any of their canon-based verses and/or fandom matched AUs.
 # Baldur's Gate
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
