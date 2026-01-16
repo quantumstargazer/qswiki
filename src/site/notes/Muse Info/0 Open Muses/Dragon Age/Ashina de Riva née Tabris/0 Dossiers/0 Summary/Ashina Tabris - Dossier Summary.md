@@ -3,6 +3,7 @@
 ---
 
 # Ashina de Riva née Tabris 
+![Ashina_de_Riva_Profile_fixed.png|250x250](/img/user/Ashina_de_Riva_Profile_fixed.png)
 > [!tip]+ Muse Info
 > - *name:* Ashina de Riva
 > 	- Ashina Tabris 
