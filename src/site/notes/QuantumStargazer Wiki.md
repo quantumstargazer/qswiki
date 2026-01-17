@@ -9,7 +9,7 @@
 [QuantumStargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
 ## RP Info
 - **Multi-Ship** — Ships are not Highlanders - there can be more than one. And there will be. *There will be.*
-- **Multi-Verse** — All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Multi-Verse** — All [[Wiki/Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
 - **Crossover Friendly** — If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** — Not a heavy or strict planner; if you *are*, then I'm probably not who you want to try to plot with.
 - **In Character Posts Immediately** — IC posts are never queued - only prompts, memes, aesthetics, etc. are queued.
@@ -33,15 +33,34 @@
 - [[Rules & Guidelines/Guidelines\|RP Guidelines]] — *may not apply to everyone*
 - [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] [^2]
 # Muse Rosters
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses — available to everyone*
-- [[Muse Info/Friends Only - Roster\|Friends Only]] —*by invitation only*
-- [[Muse Info/By Request Only - Roster\|By Request Only]] — *available only on request*
-- [[Muse Info/Irregulars - Roster\|Irregulars]] — *available only for Mains & Best Friends Call Members*
+- [[Wiki/Muse Info/! Open Muses - Roster\|Open Muses]] — *priority muses — available to everyone*
+- [[Wiki/Muse Info/Friends Only - Roster\|Friends Only]] —*by invitation only*
+- [[Wiki/Muse Info/By Request Only - Roster\|By Request Only]] — *available only on request*
+- [[Wiki/Muse Info/Irregulars - Roster\|Irregulars]] — *available only for Mains & Best Friends Call Members*
 ---
 # About the Mun
 - *name/alias:* Ziggy
 - *pronouns:* they/them
 - *age:* 40+
+> [!example]- Fandoms
+> - **Baldur's Gate**
+> - **Dragon Age**
+> - **Mass Effect**
+>
+>> [!todo]- Other Fandoms
+>> *This is not an extensive list of fandoms I'm interested in &/or familiar with enough to roleplay with. Please note: I don't keep up well with modern media, so don't expect me to be familiar with new things as soon as they come out.*
+>> - Addams Family
+>> - DC
+>> - Detroit: Become Human
+>> - Doctor Who 
+>> - Elder Scrolls
+>> - Fallout
+>> - Marvel
+>> - Our Flag Means Death
+>> - Star Trek
+>> - Stardew Valley
+>> - Supernatural
+
 ---
 #directory 
 # Footnotes
