@@ -41,7 +41,7 @@
 
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!summary]- VerseTitle
+> [!summary]- Scion of the Outer Planes 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -49,7 +49,7 @@
 >> - Verse
 >> -  Wishlist 
 
-> [!summary]- VerseTitle
+> [!summary]- Astral Drifter 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -65,7 +65,7 @@
 >> - Verse
 >> -  Wishlist 
 ## Mass Effect AUs
-> [!summary]- VerseTitle
+> [!summary]- Mercenary Assassin 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -74,7 +74,7 @@
 >> -  Wishlist
 ## Other Fandoms AUs
 ### Doctor Who AUs
-> [!summary]- VerseTitle
+> [!summary]- In Time & Space
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -100,7 +100,23 @@
 
 # Trapped In Another World AUs
 ## Baldur's Gate 
-> [!summary]- VerseTitle
+> [!summary]- Absolute Crisis
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Planar Wanderer 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Planar Agent 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -108,7 +124,7 @@
 >> - Verse
 >> -  Wishlist 
 ## Dragon Age AWs
-> [!summary]- VerseTitle
+> [!summary]- This Shit Is Weird 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -116,7 +132,7 @@
 >> - Verse
 >> -  Wishlist 
 ## Mass Effect AWs
-> [!summary]- VerseTitle
+> [!summary]- Anomaly Detected 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -125,7 +141,7 @@
 >> -  Wishlist 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-> [!summary]- VerseTitle
+> [!summary]- Companion
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -168,12 +184,8 @@
 >> - Verse
 >> -  Wishlist 
 
-# Rosters
-- [[Muse Info/! Open Muses - Roster\|Open Muses]]
-- [[Muse Info/By Request Only - Roster\|By Request Only]]
-- [[Muse Info/Friends Only - Roster\|Friends Only]]
-- [[Muse Info/Irregulars - Roster\|Irregulars]]
+
 
 ---
-#dossiers #dragonage #ashinatabris 
+#directory #dossiers #dragonage #ashinatabris 
 # Footnotes
