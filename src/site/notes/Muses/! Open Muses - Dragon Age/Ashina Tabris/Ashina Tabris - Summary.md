@@ -39,7 +39,9 @@
 > [!summary]+ Rook 
 > - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
 > 
-> Summary goes here.
+> One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
+> 
+> Her actions disrupt the Talons' plans — plans she hadn't been at all aware of — and as a result, she is sent on an extended contract to hunt the Dread Wolf when Varric Tethras shows up requesting her help in stopping Solas from destroying the world.
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -49,7 +51,9 @@
 > [!summary]+ Inquisitor
 > - *Starts in Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
-> Summary goes here.
+> Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
+> 
+> TBA 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
