@@ -10,6 +10,17 @@
 > - *nickname:* Ash
 > - *gender:* Female
 > - *pronouns:* She/Her
+> 
+>> [!info]- Tumblr Tags
+>> - ***in character:*** 
+>> - ***open starters:*** 
+>> - ***headcanons:*** 
+>> - ***wishlist:***  
+>> - *desires:* 
+>> - *aesthetics:* 
+>> - *musings:* 
+>> - *playlist:* 
+>> - *visage:* 
 
 # Canon Typical
 > [!summary]+ Dragon Age
