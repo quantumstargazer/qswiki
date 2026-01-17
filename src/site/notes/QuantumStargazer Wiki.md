@@ -16,7 +16,7 @@
 ---
 # Interest Forms
 > [!info]- Interest Assumed For All Open Muses
-> Unless you fill out the (Dis)Interest Tracker to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and all of my Open Muses in any of their canon-based verses and/or their fandom matched verses & AUs.
+> Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
 - [(Dis)Interest Tracker](https://tally.so/r/D4p7pb)
 - RP Preferences Tracker
@@ -43,9 +43,9 @@
 - *pronouns:* they/them
 - *age:* 40+
 > [!example]- Fandoms
-> - **Baldur's Gate**
-> - **Dragon Age**
-> - **Mass Effect**
+> - Baldur's Gate - *secondary — moderate activity*
+> - Dragon Age - *primary — high activity*
+> - Mass Effect - *tertiary — low activity*
 >
 >> [!todo]- Other Fandoms
 >> *This is not an extensive list of fandoms I'm interested in &/or familiar with enough to roleplay with. Please note: I don't keep up well with modern media, so don't expect me to be familiar with new things as soon as they come out.*
