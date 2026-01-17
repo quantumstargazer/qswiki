@@ -258,6 +258,141 @@
 >> -  Wishlist 
 
 # Private Verses & AUs
+## corvusrookery - Viago de Riva 
+> [!summary]- Dragon Age 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Rook
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Inquisitor 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Inquisitor Crow 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Crows' Due 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Crows' Design 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Antivan Crows 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- Lyrium Ghost 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- 3 Talons & Their Crows
+> - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
+> 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- VerseTitle
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+## corvusrookery - Andarateia Cantori 
+> [!summary]- Dragon Age
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- 3 Talons & Their Crow
+> - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
+> 
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- VerseTitle
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- VerseTitle
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+> [!summary]- VerseTitle
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
+## lanternlit - Garrus Vakarian 
+> [!summary]- VerseTitle
+> Summary goes here.
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> -  Wishlist 
+
 ## Partner - PartnerMuse
 > [!summary]- VerseTitle
 > Summary goes here.
@@ -266,6 +401,7 @@
 >> - Headcanons
 >> - Verse
 >> -  Wishlist 
+
 
 
 
