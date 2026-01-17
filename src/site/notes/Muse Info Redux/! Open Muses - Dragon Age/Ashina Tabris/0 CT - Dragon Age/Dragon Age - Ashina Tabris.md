@@ -139,7 +139,7 @@ By 9:30 Dragon, the *hahren* has finally convinced Cyrion that she's been allowe
 
 # Quotes & Catchphrases
 - "I killed them like dogs, Shianni. Not just them. All the humans who hurt you." — *said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.*
-- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or ashkaati, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
+- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or *ashkaati*, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
 
 # Trivia
 - Ashina's first kills were the ones she made freeing herself after being kidnapped, and she killed *each and every guard and human noble* that she came across, leaving a river of blood trailing behind her as she fought to try to reach Shianni in time.
@@ -149,9 +149,11 @@ By 9:30 Dragon, the *hahren* has finally convinced Cyrion that she's been allowe
 - **Ashina Tabris Is Dead** - Ashina completely stops going by her *actual* name of "***Ashina Tabris***" when she is no longer living within the Denerim Alienage — whether this is by being conscripted by the Grey Wardens, taken by the Antivan Crows, or whatever other fate she faces. Very few people who meet her after this ever learn her *true* family name, and many may never even learn her given name, if she introduces herself as "***Tathas Arainai***" instead.
 - **Adaia Was An Antivan Crow** - Adaia was a Crow of House Arainai, who ran away from the Crows in 9:06 Dragon. She would eventually find herself in Denerim, where she married Cyrion and gave birth to Ashina on the 30th of Harvestmere. 
 > [!info]- Questions of Paternity
-> There was plenty of questions around the Alienage as to whether Cyrion was truly Ashina's father, given the timing, and how little she favors him, while being *very clearly* Antivan. 
+> There were plenty of questions around the Alienage as to whether Cyrion was truly Ashina's father, given the timing, and how little she favors him, while being *very clearly* Antivan. 
 >> [!hint]-
 >> While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a child born of a Crow *becomes* a Crow, and so Adaia flees to Ferelden in hopes of giving her child a chance and a *choice* of their own future. She was vocally against the Alienage tradition of only being recognized as an adult by marrying, fought to keep the *hahren* from trying to force Ashina to marry until she *wanted to*, and preferably for love.
+>>
+>> Even though she might not be his by blood, Ashina *is* Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.
 
 ## Things Your Muse *Could* Know
 - **Tathas Arainai, *Hero of Ferelden*** - Most people believe that the Hero of Ferelden's name is ***Tathas Arainai***. As time progresses, fewer remember she is an elf, said to be from Denerim, despite her Antivan name and appearance. Given the mixed feelings many people have regarding the hero's actions during the Fifth Blight, and a few months later in Amaranthine, she had became rather more notorious, at least among nobles, before she was said to have been killed by Antivan Crows in 9:33 Dragon.
