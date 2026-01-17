@@ -11,8 +11,7 @@
 > [!hint]- Archfey Warlock of the Prince of Frost
 > Tavares is a warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -21,8 +20,7 @@
 > [!hint]- Baldur's Gate PI for Over 200 Years
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -31,8 +29,7 @@
 > [!caution]- The Dark Urge
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -43,8 +40,7 @@
 > [!hint]- Hero of Ferelden turned Antivan Crow
 > Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "*Tathas Arainai*". By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.
 
-- [[Muses/! Open Muses - Dragon Age/Ashina Tabris/Ashina Tabris - Dossier Summary\|Dossiers]]
-- Verses
+- [[Muses/! Open Muses - Dragon Age/Ashina Tabris/Ashina Tabris - Summary\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -53,8 +49,7 @@
 > [!hint]- Casteless Bastard of Prince Trian Aeducan
 > Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow.
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -63,8 +58,7 @@
 > [!hint]- Viago Jr. (No Relation... Probably)
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -73,18 +67,16 @@
 > [!hint]- Wisp to Spirit to Elf
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ## Zevran Arainai
 *City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^1]
-> [!hint]- Eighth Talon of House Arainai
+> [!hint]- From Shadow to Talon 
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -93,8 +85,7 @@
 > [!hint]- Inquisition Abandoned
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -103,8 +94,7 @@
 > [!hint]- Grand Necropolis Guard
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -115,8 +105,7 @@
 > [!hint]- First Human Spectre
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
@@ -125,8 +114,7 @@
 > [!hint]- Survival Against The Odds
 > TBA
 
-- Dossiers
-- Verses
+- Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
