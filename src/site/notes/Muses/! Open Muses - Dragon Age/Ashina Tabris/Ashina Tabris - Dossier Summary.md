@@ -24,6 +24,8 @@
 
 # Canon Typical
 > [!summary]+ Dragon Age
+> - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
+> 
 > **Ashina de Riva** is a Master Assassin of House de Riva of the Antivan Crows, likely serving as the Fifth Talon's Second, and is the Warden-Commander of Antiva. She specialises in contacts for entire noble households, methodically wiping out an entire family line and their house in a single evening.
 > 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
@@ -34,7 +36,9 @@
 >> -  Wishlist 
 
 # Canon Divergent AUs
-> [!summary]+ Rook
+> [!summary]+ Rook 
+> - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -43,6 +47,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Inquisitor
+> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -51,6 +57,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Inquisitor Crow 
+> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -59,6 +67,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Crows' Due 
+> - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -67,6 +77,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Crows' Design
+> - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -75,6 +87,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Antivan Crows 
+> - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -83,6 +97,8 @@
 >> -  Wishlist 
 
 > [!summary]+ Lyrium Ghost
+> - *Starts in Post-Veilguard timeline. (9:55 - 9:69 Dragon)*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -90,7 +106,7 @@
 >> - Verse
 >> -  Wishlist 
 
-> [!summary]+ VerseTitle
+> [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -98,13 +114,14 @@
 >> - Verse
 >> -  Wishlist 
 
-> [!summary]+ VerseTitle
+> [!summary]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> -  Wishlist 
+
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!summary]- Scion of the Outer Planes 
