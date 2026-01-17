@@ -43,7 +43,7 @@
 > [!hint]- Hero of Ferelden turned Antivan Crow
 > Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "*Tathas Arainai*". By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.
 
-- [[Muse Info/0 Open Muses/Dragon Age/Ashina de Riva née Tabris/0 Dossiers/0 Summary/Ashina Tabris - Dossier Summary\|Dossiers]]
+- [[Muse Info Redux/! Open Muses - Dragon Age/Ashina Tabris/Ashina Tabris - Dossier Summary\|Dossiers]]
 - Verses
 - Connections
 - Headcanons

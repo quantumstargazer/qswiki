@@ -17,7 +17,7 @@
 > 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 >> [!info]- Verse Navigation 
->> - [[Muse Info Redux/! Open Muses - Dragon Age/Ashina Tabris/0 CT - Dragon Age/Dragon Age - Ashina Tabris\|Dossier]]
+>> - [[Muse Info Redux/! Open Muses - Dragon Age/Ashina Tabris/0 CT - Dragon Age/Dossier - Dragon Age (Ashina Tabris)\|Dossier]]
 >> - Headcanons
 >> - Verse
 >> -  Wishlist 
